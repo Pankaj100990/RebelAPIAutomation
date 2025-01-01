@@ -10,6 +10,7 @@ import io.restassured.RestAssured;
 import org.testng.ITestContext;
 import org.testng.annotations.Test;
 
+import static io.restassured.RestAssured.requestSpecification;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class TestIntegrationFlow extends BaseTest {

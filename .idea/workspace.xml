@@ -4,31 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68da81b9-cd83-4630-80bc-c1f855fe5344" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/endpoints/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/PayloadManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos/Auth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos/BookingResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos/Bookingdates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos/TokenResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/asserts/AssertActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/listeners/RetryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/crud/TestIntegrationFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/sample/TestIntegrationSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/utils/CommonToAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/utils/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-qa-env.xml" afterDir="false" />
+    <list default="true" id="68da81b9-cd83-4630-80bc-c1f855fe5344" name="Changes" comment="Rebel">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/APITesting_01_GSON_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/Brand_SurePoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/ChargeDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/Customisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/CustomisationsGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/gson/SurePointsPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/gson/APITesting_01_GSON_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/gson/TestDummy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/rebel/GetProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/rebel/SurePointsBreakupPostApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-prod-api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/crud/TestIntegrationFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/crud/TestIntegrationFlow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Pankaj100990&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Pankaj100990/RebelAPIAutomation&quot;,
+    &quot;accountId&quot;: &quot;b8fa8352-5a60-4ed2-8eb1-d4c8437d3783&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -56,37 +60,108 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GetProductCategory.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/pankaj.gokhale/IdeaProjects/RebelAPIAutomation/testng-prod-api.xml.executor": "Run",
+    "TestNG.C:/Users/pankaj.gokhale/IdeaProjects/RebelAPIAutomation/testng-qa-env.xml.executor": "Run",
+    "TestNG.GetProductCategory.executor": "Run",
+    "TestNG.SurePointsBreakupPostApi.executor": "Run",
+    "TestNG.SurePointsBreakupPostApi.getMessage.executor": "Run",
+    "TestNG.SurePointsBreakupPostApi.test_sure_points_breakup_post.executor": "Run",
     "TestNG.Test001.test_hello_ra.executor": "Run",
+    "TestNG.TestIntegrationFlow.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/pankaj.gokhale/IdeaProjects/RebelAPIAutomation/src/test/resources"
+    "last_opened_file_path": "C:/Users/pankaj.gokhale/IdeaProjects/RebelAPIAutomation"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pankaj.gokhale\IdeaProjects\RebelAPIAutomation" />
       <recent name="C:\Users\pankaj.gokhale\IdeaProjects\RebelAPIAutomation\src\test\resources" />
       <recent name="C:\Users\pankaj.gokhale\IdeaProjects\RebelAPIAutomation\src\main\java\com\thetestingacademy\pojos" />
-      <recent name="C:\Users\pankaj.gokhale\IdeaProjects\RebelAPIAutomation" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.thetestingacademy.utils" />
       <recent name="com.thetestingacademy.tests.integration.crud" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Test001.test_hello_ra" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SurePointsBreakupPostApi.getMessage">
+    <configuration name="C:/Users/pankaj.gokhale/IdeaProjects/RebelAPIAutomation/testng-prod-api.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RebelAPIAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-prod-api.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProductCategory" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RebelAPIAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.tests.*" />
+          <option name="PATTERN" value="com.thetestingacademy.rebel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.tests.Test001" />
-      <option name="METHOD_NAME" value="test_hello_ra" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.rebel" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.rebel.GetProductCategory" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurePointsBreakupPostApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RebelAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.rebel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.rebel" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.rebel.SurePointsBreakupPostApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurePointsBreakupPostApi.getMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RebelAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.rebel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.rebel" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.rebel.SurePointsBreakupPostApi" />
+      <option name="METHOD_NAME" value="getMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SurePointsBreakupPostApi.test_sure_points_breakup_post" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RebelAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.rebel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.rebel" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.rebel.SurePointsBreakupPostApi" />
+      <option name="METHOD_NAME" value="test_sure_points_breakup_post" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -96,7 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test001.test_hello_ra" />
+        <item itemvalue="TestNG.SurePointsBreakupPostApi.getMessage" />
+        <item itemvalue="TestNG.SurePointsBreakupPostApi" />
+        <item itemvalue="TestNG.SurePointsBreakupPostApi.test_sure_points_breakup_post" />
+        <item itemvalue="TestNG.GetProductCategory" />
+        <item itemvalue="TestNG.C:/Users/pankaj.gokhale/IdeaProjects/RebelAPIAutomation/testng-prod-api.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +188,35 @@
       <option name="presentableId" value="Default" />
       <updated>1735225589563</updated>
     </task>
+    <task id="LOCAL-00001" summary="Rebel">
+      <option name="closed" value="true" />
+      <created>1735227817157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735227817157</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rebel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rebel" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/rebel/GetProductCategory.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/thetestingacademy/pojos/Booking.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
